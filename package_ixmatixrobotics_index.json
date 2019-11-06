@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "1.1.1",
           "category": "Contributed",
-          "url": "https://github.com/roboticagolem/bootloader/blob/gh-pages/golem-samd-v1.1.1.tar.bz2?raw=true",
+          "url": "https://github.com//IxmatixRobotics/IXMATIX-Board/blob/master/ixmatix-samd-v1.1.1.tar.bz2?raw=true",
           "archiveFileName": "ixmatix-samd-v1.1.1.tar.bz2",
           "checksum": "SHA-256:09529d7dc6f9bf324da633e489a42d4986b46be57ba72b7a820e276ef5a4d1a0",
           "size": "198682",
